@@ -47,12 +47,6 @@ cd automacao-zapi-supabase
 **2. Crie e ative um ambiente virtual:**
 ```bash
 python -m venv venv
-
-# No Windows:
-venv\Scripts\activate
-
-# No Linux/Mac:
-source venv/bin/activate
 ```
 
 **3. Instale as dependências:**
